@@ -1,8 +1,9 @@
 ![Banner para Twitch eSports Gamer Neón Violeta](https://github.com/user-attachments/assets/a2e0b12c-e11f-4f89-9749-4486fb47609a)
 ---
 I have been learning front-end web development for more than three years. I specialized in creating creative websites. I like to contribute in open sources projects. Currently engrossed with Frontend and hoping to learn a lot more!
-<br />
-<br />
+
+<a target="_blank" href="https://www.linkedin.com/feed/?trk=hb_signin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:lebossamedina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <h2> / About me /</h2>
 
@@ -32,6 +33,7 @@ I have been learning front-end web development for more than three years. I spec
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" />
   
 - <h4> Designing tools </h4>
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
