@@ -1,4 +1,4 @@
-<img width="1200px" height="270" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
+<img width="1000px" height="300" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
 
 <h1>Hi , I'm Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
