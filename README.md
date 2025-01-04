@@ -1,10 +1,10 @@
 <img width="1100px" height="300" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
 
-<h1>Hi , I'm Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi , I'm Luis</h1> 
 
-<h4>
+<h3>
 I have been learning front-end web development for more than three years. I specialized in creating creative websites. I like to contribute in open sources projects. Currently engrossed with Frontend and hoping to learn a lot more!
-</h4>
+</h3>
 
 <br>
 
