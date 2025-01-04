@@ -19,7 +19,7 @@ I have been learning front-end web development for more than three years. I spec
 <td width="50%" align="left">
 
 - 🌏 I'm living now in Costa Rica.
-- 🔭 I’m currently working on: Web Applications
+- 🔭 I’m currently working on: Web Applications.
 - 📌 Interests: UX, UI Design.
 - 🌱 I’m currently learning: Vue.js.
 - 💬 Ask me about: Vue.js, React.js and NodeJS.
