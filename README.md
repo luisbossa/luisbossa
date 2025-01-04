@@ -1,10 +1,12 @@
-<img width="1000px" height="300" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
+<img width="1100px" height="300" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
 
 <h1>Hi , I'm Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4>
 I have been learning front-end web development for more than three years. I specialized in creating creative websites. I like to contribute in open sources projects. Currently engrossed with Frontend and hoping to learn a lot more!
 </h4>
+
+<br>
 
 <a href = ""><img height="30" src="https://img.shields.io/badge/-My%20Website-blue?style=for-the-badge" ></a>
 <a href="https://www.linkedin.com/feed/?trk=hb_signin" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" ></a> 
