@@ -1,4 +1,4 @@
-<img width="1100px" height="300" src="https://github.com/user-attachments/assets/df8d94b9-2d08-4637-9f8b-007c04dbe976" >
+<img width="1100px" height="300" src="https://github.com/user-attachments/assets/37dedb5d-c13f-4bf0-b0c3-51508be40535" >
 
 <h1>Hi , I'm Luis</h1> 
 
