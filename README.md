@@ -27,7 +27,13 @@ I have been learning front-end web development for more than three years. I spec
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://i.gifer.com/VSQt.gif">
+<a href = "https://pagespeed.web.dev/analysis/https-ecom-nine-alpha-vercel-app/c8t16l7g2h?form_factor=mobile">
+ <img align="center" alt="Coding" width="350" src="https://github.com/user-attachments/assets/d0f24f8f-7944-45e0-8d68-e149ea76e7cb">
+</a>
+<a href = "https://pagespeed.web.dev/analysis/https-ecom-nine-alpha-vercel-app/c8t16l7g2h?form_factor=desktop">
+ <img align="center" alt="Coding" width="350" src="https://github.com/user-attachments/assets/cf724bf1-51da-455e-afcd-185971571747">
+</a>
+      
 </td>
 </tr>
 </table> 
