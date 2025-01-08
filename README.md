@@ -29,12 +29,13 @@ I have been learning front-end web development for more than three years. I spec
 <td width="50%" align="center">
 
 <a href = "https://pagespeed.web.dev/analysis/https-ecom-nine-alpha-vercel-app/c8t16l7g2h?form_factor=mobile">
- <h4>Average performance on mobile:</h4>
- <img align="center" alt="Coding" width="350" src="https://github.com/user-attachments/assets/d0f24f8f-7944-45e0-8d68-e149ea76e7cb">
+ <h4 align="start">Average performance on mobile:</h4>
+ <img align="center" alt="Coding" width="330" src="https://github.com/user-attachments/assets/14645198-1217-4c6d-8ceb-c71c76635231">
 </a>
+
 <a href = "https://pagespeed.web.dev/analysis/https-ecom-nine-alpha-vercel-app/c8t16l7g2h?form_factor=desktop">
- <h4>Average performance on desktop:</h4>
- <img align="center" alt="Coding" width="350" src="https://github.com/user-attachments/assets/cf724bf1-51da-455e-afcd-185971571747">
+ <h4 align="start">Average performance on desktop:</h4>
+ <img align="center" alt="Coding" width="330" src="https://github.com/user-attachments/assets/f6ccde3e-d548-4451-a71d-430c76a94cbf">
 </a>
       
 </td>
