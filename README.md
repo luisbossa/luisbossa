@@ -8,7 +8,7 @@ I have been learning front-end web development for more than three years. I spec
 
 <br>
 
-<a href = ""><img height="30" src="https://img.shields.io/badge/-My%20Website-blue?style=for-the-badge" ></a>
+<a href = "https://www.bstudio.site/"><img height="30" src="https://img.shields.io/badge/-My%20Website-blue?style=for-the-badge" ></a>
 <a href="https://www.linkedin.com/feed/?trk=hb_signin" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" ></a> 
 <a target = "_blank" href="mailto:lebossamedina@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:christian2020022014@gmail.com" ></a>
       
